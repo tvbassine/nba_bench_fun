@@ -1,0 +1,9 @@
+READ_ME
+
+This repository contains data and code used to produce my post titled "How Important Is A Good Bench to NBA Success?", which was published in January 2019.
+Link to article:
+The "code_for_post" folder contains the R script used to generate the plots and do the analysis for the article.
+The "starter_bench_units_data" folder contains the data.  There is a separate data dictionary file in that folder to explain what each file is and what the fields represent, but the important one for my analysis was 'units_2018_2019_through_12_30.csv'.  This file stores all the lineup combinations in each game for each team, and their net points and time on the court.
+
+This google sheet (link below) provides a nice table of starter majority and bench majority net points per game for each team, through December 30th of the 2018-19 regular season.
+Link: https://docs.google.com/spreadsheets/d/1jlzBWKhONKLfz9mtqkC_mMJ15xZ9ID4LKtwKf2u8fKY/edit?usp=sharing
